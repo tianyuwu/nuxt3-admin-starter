@@ -1,10 +1,17 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Admin Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+本项目是在官方模板下进行了一些通用功能的配置和集成，主要包括以下：
 
-## Setup
+- [x] 集成Element Plus
+- [x] 集成unocss
+- [x] Vscode代码片段配置
 
-Make sure to install the dependencies:
+了解更多信息可查看官方[Nuxt 3 文档](https://nuxt.com/docs/getting-started/introduction)。
+
+
+## 安装
+
+确保用以下命令安装了依赖:
 
 ```bash
 # yarn
@@ -17,26 +24,26 @@ npm install
 pnpm install
 ```
 
-## Development Server
+## 运行开发环境
 
-Start the development server on http://localhost:3000
+运行如下命令可运行开发环境，项目会运行在http://localhost:3000
 
 ```bash
 npm run dev
 ```
 
-## Production
+## 构建生产环境
 
-Build the application for production:
+构建生产环境应用使用如下命令:
 
 ```bash
 npm run build
 ```
 
-Locally preview production build:
+本地预览生产环境构建：
 
 ```bash
 npm run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+更多构建信息可查看[deployment documentation](https://nuxt.com/docs/getting-started/deployment)。
