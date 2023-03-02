@@ -9,7 +9,7 @@
   },
   "devDependencies": {
     "@element-plus/nuxt": "^1.0.3",
-    "nuxt": "^3.2.2"
+    "nuxt": "^3.2.3"
   },
   "dependencies": {
     "@unocss/nuxt": "^0.50.1",
